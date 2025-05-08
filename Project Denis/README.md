@@ -2,6 +2,7 @@
 
 This project demonstrates a real-world data engineering solution using **Azure services**, **Power Bi** following the **Medallion Architecture (Bronze → Silver → Gold)**.
 
+![Denis Dashboard](Denis_Dashboard.png)
 ---
 
 ## 🚀 Project Overview
